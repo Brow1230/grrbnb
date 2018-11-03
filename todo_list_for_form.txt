@@ -1,0 +1,5 @@
+find img for header
+find a google font for it
+size everything
+position button properly
+test it all again
